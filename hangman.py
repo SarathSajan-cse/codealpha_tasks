@@ -24,7 +24,9 @@ if "_" not in guessed:
     print(f"\nCongratulations {name},YOU WON")
 else:
     print(f"\nGame Over {name},the word was : " ,word)
+
 print("\nThanks For Playing",name)
+input("\nPress Enter To Exit....")
 
  
     
