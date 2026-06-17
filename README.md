@@ -50,5 +50,22 @@ A Python-based application that allows users to calculate their total investment
 1. Open terminal in project folder  
 2. Run:
 
-```bash
-python stockcalculator.py
+
+
+
+Project 3: Basic Chatbot
+
+Description:
+A simple rule-based chatbot that interacts with users using predefined responses.
+
+Features:
+- Greets user with name
+- Responds to keywords (hello, time, name, etc.)
+- Shows current time
+- Continuous chat until user exits
+
+Concepts Used:
+- Functions
+- Loops (while)
+- Conditionals (if-elif)
+- String handling
