@@ -22,4 +22,5 @@ else:
 print("\nTotal Investment: ",total_investment)
 with open("portfolio.txt","w") as file:
     file.write(f"Total Investment:  {total_investment}")
+
 input("\nPress Enter To Exit....")
