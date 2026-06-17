@@ -36,4 +36,28 @@ A text-based Hangman game built using Python where the player guesses a word let
 3. Run:
 
 ```bash
-python hangman.py
+
+## 📌 Project 2: Stock Portfolio Tracker
+
+### Description:
+A program that calculates total investment based on stock name and quantity entered by the user.
+
+### Features:
+- Supports multiple stock entries
+- Uses dictionary for stock prices
+- Calculates total investment
+- Saves result to portfolio.txt
+- Handles invalid stock inputs
+
+### Concepts Used:
+- Dictionary
+- Loop (while)
+- Conditionals (if-else)
+- File handling
+
+---
+
+## 🛠️ Technologies Used
+- Python
+- VS Cod
+ 
