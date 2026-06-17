@@ -18,6 +18,7 @@ while True:
         print("Added : ",total)
 else:
     print("Stock Not Found")
+
 print("\nTotal Investment: ",total_investment)
 with open("portfolio.txt","w") as file:
     file.write(f"Total Investment:  {total_investment}")
